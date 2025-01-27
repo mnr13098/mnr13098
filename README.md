@@ -60,7 +60,8 @@ I'm a passionate Software Developer with interests spanning across Full Stack De
 - System Design patterns
 
 ## 📫 How to Reach Me
-[Add your preferred contact methods here]
+[![Email](https://img.shields.io/badge/Email-mutyamnarasimhareddy%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mutyamnarasimhareddy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narasimha%20Reddy-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimha-reddy-070bb6229/)
 
 ---
 ⭐️ From [Narasimha Reddy](https://github.com/YourGitHubUsername)
