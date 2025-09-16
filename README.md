@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Narasimha Reddy
 
-I'm a passionate Software Developer with interests spanning across Full Stack Development and Data Science. I love building efficient solutions and learning new technologies.
+I'm a passionate Software Developer with interests spanning across Full Stack Development and Data Science, currently working with MPHASIS as a Delv Software Engineer. I love building efficient solutions and learning new technologies.
 
 ## 🛠️ Technical Skills
 
@@ -64,7 +64,6 @@ I'm a passionate Software Developer with interests spanning across Full Stack De
 - Continuously learn new technologies
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning concepts
 - Cloud Technologies
 - System Design patterns
 
